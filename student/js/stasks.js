@@ -1,33 +1,33 @@
 let staskL=[
     {
         id: 0,
-        title:"Метрик фазоларда компактлик.",
-        link: "sourses/books/lectures/2. Метрик фазоларда компактлик.pdf",
+        title:"Metrik fazolarda kompaktlik.",
+        link: "sourses/books/lectures/Metrik fazolarda kompaktlik..pdf",
     },
     {
         id: 1,
-        title:"Қисқартириб_акслантириш_принцпи",
-        link: "sourses/books/lectures/3_Қисқартириб_акслантириш_принцпи.pdf",
+        title:"Qisqartirib_akslantirish_printspi",
+        link: "sourses/books/lectures/Qisqartirib_akslantirish_printspi.pdf",
     },
     {
         id: 2,
-        title:"Чизиқли фазолар",
-        link: "sourses/books/lectures/4. Чизиқли фазолар.pdf",
+        title:"Chiziqli fazolar",
+        link: "sourses/books/lectures/Chiziqli fazolar.pdf",
     },
     {
         id: 3,
-        title:"Чизиқли_ва_қавариқ_функционаллар",
-        link: "sourses/books/lectures/5_Чизиқли_ва_қавариқ_функционаллар.pdf",
+        title:"Chiziqli_va_qavariq_funktsionallar",
+        link: "sourses/books/lectures/Chiziqli_va_qavariq_funktsionallar.pdf",
     },
     {
         id: 4,
-        title:"Нормаланган фазолар",
-        link: "sourses/books/lectures/6. Нормаланган фазолар.pdf",
+        title:"Normalangan fazolar",
+        link: "sourses/books/lectures/Normalangan fazolar.pdf",
     },
     {
         id: 5,
-        title:"Чизиқли операторлар",
-        link: "sourses/books/lectures/7. Чизиқли операторлар.pdf",
+        title:"Chiziqli operatorlar",
+        link: "sourses/books/lectures/Chiziqli operatorlar.pdf",
     }
     
 ]
